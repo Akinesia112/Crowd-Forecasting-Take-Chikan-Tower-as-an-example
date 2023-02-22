@@ -1,5 +1,4 @@
 # ***Crowd Forecasting_Take "Chikan Tower (赤崁園區)" as an example***
-## DCCG_2022 | Assignment 5 | Final Project
 ## Lai Shih - Yu
 ---
 ## **Crowd Forecasting**
