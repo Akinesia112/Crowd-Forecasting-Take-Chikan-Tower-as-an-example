@@ -36,13 +36,16 @@ The `mobile data` obtained from `Far EasTone Telecom` for this project is: the h
 
 
 ▌Results
+
   ![image](Isochrone.png)   
  
   * Isochrones of tourist attractions
+  
 
   ![image](Chikan_Tower_Historical_Crowd_Numbers.png) 
 
   * Chikan Tower Historical Crowd Numbers
+  
 
   ![image](Chikan_Tower_Predicted_Crowd_Numbers.png)   
   
