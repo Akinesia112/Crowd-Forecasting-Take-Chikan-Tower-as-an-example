@@ -5,7 +5,7 @@
 
 <br>
 
-  ![video](Demo_crowd forcasting for Tourism Bureau of Tainan City.mov) 
+  ![Watch the video](Demo_crowd forcasting for Tourism Bureau of Tainan City.mov) 
   
   * Demo
 
