@@ -5,7 +5,7 @@
 
 <br>
 
-  ![Watch the video]([https://youtu.be/T-D1KVIuvjA](https://drive.google.com/file/d/1cuP0-qBeKaiZ12RgYxo6KOm7CYQ_pde8/view?usp=share_link))
+  [![Watch the video](https://img.youtube.com/vi/69AuAVzITGk/0.jpg)](https://youtu.be/69AuAVzITGk)
 
   * Demo
 
