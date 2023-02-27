@@ -47,7 +47,7 @@ The `mobile data` obtained from `Far EasTone Telecom` for this project is: the h
  
   * Isochrones of tourist attractions
   
-  ![image](Voronoi.PNG)   
+  ![image](Weather_Station_Voronoi.PNG)   
 
   * Voronoi regions of Tainan weather station
   
