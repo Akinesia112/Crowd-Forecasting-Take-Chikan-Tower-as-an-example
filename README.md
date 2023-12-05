@@ -12,7 +12,7 @@
 ▌Introduction
 
 The prediction of the crowd pattern involves a huge amount of data and research demonstrations. Therefore, the primary goal of this case is to define an effective and feasible estimation method, which can be used as a research reference in the case of sufficient data.
-In addition, in order to avoid the traffic and safety problems caused by the explosion of crowds, this case uses the historical data of Far EasTone Telecom, the historical ticket sales data of tourist attractions, and the factors related to crowds on open platforms, in order to establish an effective crowd estimation model, and then assist the municipality in pre-deploying controls before a crisis occurs, such as: order maintenance, traffic control, and passenger limit.
+In addition, in order to avoid the traffic and safety problems caused by the explosion of crowds, this case uses the historical data of Telecom, the historical ticket sales data of tourist attractions, and the factors related to crowds on open platforms, in order to establish an effective crowd estimation model, and then assist the municipality in pre-deploying controls before a crisis occurs, such as: order maintenance, traffic control, and passenger limit.
 
 <br>
 
@@ -20,7 +20,7 @@ The 5 tourist attractions of this crowd forecasting project include Chikan Tower
 
 <br>
 
-The `mobile data` obtained from `Far EasTone Telecom` for this project is: the hourly number of people in Chikan Tower in July and August 2022. In order to establish an effective and accurate estimation model and verify the accuracy of the forecast, this case uses mobile data. In addition, other crowd factor data that can symbolize or represent the number of crowds are also used, for example: `temperature`, `rainfall`, and `daily ticket` are used as reference factors, and `holiday data` of recurring events (routine schedules) are considered, such as : weekends, national holidays, winter and summer vacations, etc. Finally, use the time-sharing `usage data of parking spaces`, because in addition to being an influencing factor, it may also have the nature of a crowd factor or a response factor.
+The `mobile data` obtained from `Telecom` for this project is: the hourly number of people in Chikan Tower in July and August 2022. In order to establish an effective and accurate estimation model and verify the accuracy of the forecast, this case uses mobile data. In addition, other crowd factor data that can symbolize or represent the number of crowds are also used, for example: `temperature`, `rainfall`, and `daily ticket` are used as reference factors, and `holiday data` of recurring events (routine schedules) are considered, such as : weekends, national holidays, winter and summer vacations, etc. Finally, use the time-sharing `usage data of parking spaces`, because in addition to being an influencing factor, it may also have the nature of a crowd factor or a response factor.
 
 <br>
 
